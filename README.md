@@ -52,7 +52,6 @@ pip install -r requirements.txt
     GOOGLE_API_KEY=AIzaSyYourKeyHere...
     HOTKEY=<alt>+x
     ```
-    *Note: The `.env` file is git-ignored to protect your secrets.*
 
 ## Usage
 
